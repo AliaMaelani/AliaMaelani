@@ -3,7 +3,9 @@
 </p>
 <h1 align="center">Hi 👋, I'm Alia Maelani</h1>
 <h3 align="center">I am an Information Systems student with a strong interest in web development, particularly in frontend development. I enjoy creating visually appealing and user-friendly interfaces that enhance the user experience. My passion lies in turning ideas into functional and interactive web designs while continuously learning and improving my skills in the field.</h3>
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+<p align="center">
+  <img alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliamaelani" alt="aliamaelani" /></a> </p>
 
 - 🔭 I’m currently working on **enhancing my abilities in web development.**
