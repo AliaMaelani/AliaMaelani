@@ -9,7 +9,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliamaelani" alt="aliamaelani" /></a> </p>
 
 - 🔭 I’m currently working on **enhancing my abilities in web development.**
-🤝 I’m excited to join an innovative front-end project, where I can apply my skills and collaborate with others who share similar goals.
+
+- 🤝 I’m excited to join an innovative front-end project, where I can apply my skills and collaborate with others who share similar goals.
 
 - 📫 How to reach me **absentugasalia@gmail.com**
 
